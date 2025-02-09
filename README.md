@@ -127,4 +127,4 @@ For more details about **Slate** and its features, visit the official [Slate Git
 
 # License
 
-This documentation is open-source and available under the [MIT License](https://github.com/yourusername/centrifuge-sdk-docs/blob/main/LICENSE).
+This documentation is open-source and available under the [MIT License](https://github.com/centrifuge/sdk-docs/blob/main/LICENSE).
